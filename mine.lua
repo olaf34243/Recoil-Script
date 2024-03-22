@@ -73,13 +73,13 @@ DelayRate = 7 -- DO NOT CHANGE IF YOU DON'T KNOW WHAT YOU'RE DOING.
 
 -------------  Recoil Presets ------
 if RecoilControlMode == "Low" then
-  RecoilControlStrength = 2
+  RecoilControlStrength = 59
 elseif RecoilControlMode == "Medium" then
-  RecoilControlStrength = 6
+  RecoilControlStrength = 54
 elseif RecoilControlMode == "High" then
-  RecoilControlStrength = 8
+  RecoilControlStrength = 43
 elseif RecoilControlMode == "Ultra" then
-  RecoilControlStrength = 12
+  RecoilControlStrength = 43
 elseif RecoilControlMode == "Insanity" then
   RecoilControlStrength = 31
 elseif RecoilControlMode == "Custom" then
